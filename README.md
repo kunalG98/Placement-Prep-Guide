@@ -1,9 +1,8 @@
 # Placement-Prep
 
-<p> The most important element in cracking a Software Engineering Interview is Data Structures and Algorithms. GeeksforGeeks is by far the best place to study Data Structures and Algorithms (acc. to me). </p>
+The most important element in cracking a Software Engineering Interview is Data Structures and Algorithms. GeeksforGeeks is by far the best place to study Data Structures and Algorithms (acc. to me). <br>
  
-Checkout https://practice.geeksforgeeks.org/courses/?query=DSA for the courses they offer.<br>
-Their tutorials and practice tracks are more than sufficient to prepare Data Structures and Algorithms.<br>
+Checkout https://practice.geeksforgeeks.org/courses/?query=DSA for the courses they offer. Their tutorials and practice tracks are more than sufficient to prepare Data Structures and Algorithms.<br>
 
 <h1>Study</h1>
 
@@ -22,9 +21,9 @@ Their tutorials and practice tracks are more than sufficient to prepare Data Str
 1. Coding
     
      i. <b>Problem Solving Questions: </b> https://www.hackerrank.com/domains/algorithms <br>
-    ii.a. <b> Data Structures and Algorithms: </b> https://practice.geeksforgeeks.org/courses/dsa-self-paced?vb=154 
-     <h4> OR </h4> 
-    ii.b. <b> Data Structures and Algorithms: </b> https://www.interviewbit.com/courses/programming/ <br>
+    ii.a. <b> Data Structures and Algorithms:(Paid) </b> https://practice.geeksforgeeks.org/courses/dsa-self-paced?vb=154 
+     <h6> OR </h6> 
+    ii.b. <b> Data Structures and Algorithms:(Unpaid) </b> https://www.interviewbit.com/courses/programming/ <br>
      iii.  <b> Must Do Interview Questions for Mirosoft, Amazon etc. </b> https://practice.geeksforgeeks.org/batch/must-do-1/ <br>
      
 2. SQL
@@ -53,7 +52,7 @@ Their tutorials and practice tracks are more than sufficient to prepare Data Str
 1. Start by picking up one programming language which you would like to code in, preferable (C++, Java for Data Structues)
    and could be (Python, C++, Java for Problem Solving). <br>
 2. Gain minimum of 5 Stars in Problem Solving tab in Hackerrank. It will make your command strong over how to implement logics 
-   and on a particular language as well. <br>
+   and on a particular programming language as well. <br>
 3. Do practice MCQs on all the topics if you go with DSA Track on G4G. <br>
 
 
