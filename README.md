@@ -21,12 +21,12 @@ Their tutorials and practice tracks are more than sufficient to prepare Data Str
 
 1. Coding
     
-    i. <b>Problem Solving Questions: </b> https://www.hackerrank.com/domains/algorithms <br>
-	ii.a. <b> Data Structures and Algorithms: </b> https://practice.geeksforgeeks.org/courses/dsa-self-paced?vb=154 <br>
-      <h4> OR </h4> 
-	ii.b. <b> Data Structures and Algorithms: </b> https://www.interviewbit.com/courses/programming/ <br>
-	
-
+     i. <b>Problem Solving Questions: </b> https://www.hackerrank.com/domains/algorithms <br>
+    ii.a. <b> Data Structures and Algorithms: </b> https://practice.geeksforgeeks.org/courses/dsa-self-paced?vb=154 
+     <h4> OR </h4> 
+    ii.b. <b> Data Structures and Algorithms: </b> https://www.interviewbit.com/courses/programming/ <br>
+     iii.  <b> Must Do Interview Questions for Mirosoft, Amazon etc. </b> https://practice.geeksforgeeks.org/batch/must-do-1/ <br>
+     
 2. SQL
 
 	i. https://www.hackerrank.com/domains/sql
@@ -43,18 +43,18 @@ Their tutorials and practice tracks are more than sufficient to prepare Data Str
 <h2>Last Minute Material</h2>
 
 1. Maintain notes from all above mentioned tutorials and that could be your best last minute materials.
-2. <b> For Operating Systems</b> https://www.geeksforgeeks.org/last-minute-notes-operating-systems/<br>
-3. <b> For Database Management Systems</b> https://www.geeksforgeeks.org/last-minute-notes-dbms/ <br>
-4. <b> For Networks and Communication </b> https://www.geeksforgeeks.org/last-minute-notes-computer-network/ <br>
-5. For SQL Queries </b> https://artoftesting.com/interviewSection/sql-queries-for-interview.html </br>
+2. <b> For Operating Systems: </b> https://www.geeksforgeeks.org/last-minute-notes-operating-systems/<br>
+3. <b> For Database Management Systems: </b> https://www.geeksforgeeks.org/last-minute-notes-dbms/ <br>
+4. <b> For Networks and Communication: </b> https://www.geeksforgeeks.org/last-minute-notes-computer-network/ <br>
+5. <b> For SQL Queries: </b> https://artoftesting.com/interviewSection/sql-queries-for-interview.html </br>
 
 <h2>Tips</h2>
 
 1. Start by picking up one programming language which you would like to code in, preferable (C++, Java for Data Structues)
    and could be (Python, C++, Java for Problem Solving). <br>
-2. GeeksforGeeks is a great place for topic wise concepts/problems. <br>
-3. Do practice . <br>
-
+2. Gain minimum of 5 Stars in Problem Solving tab in Hackerrank. It will make your command strong over how to implement logics 
+   and on a particular language as well. <br>
+3. Do practice MCQs on all the topics if you go with DSA Track on G4G. <br>
 
 
 <h3>ALL THE BEST!!!</h3>
