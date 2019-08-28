@@ -32,6 +32,7 @@ Checkout https://practice.geeksforgeeks.org/courses/?query=DSA for the courses t
      	 <p> OR </p>
     ii.b. <b> Data Structures and Algorithms:(Unpaid) </b> https://www.interviewbit.com/courses/programming/ <br>
      iii.  <b> Must Do Interview Questions for Mirosoft, Amazon etc. </b> https://practice.geeksforgeeks.org/batch/must-do-1/ <br>
+     iv. <b> Sudo placement course </b> https://practice.geeksforgeeks.org/batch/sp-2019/ <br>
      
 2. SQL
 
@@ -60,7 +61,7 @@ Checkout https://practice.geeksforgeeks.org/courses/?query=DSA for the courses t
    and could be (Python, C++, Java for Problem Solving). <br>
 2. Gain minimum of 5 Stars in Problem Solving tab in Hackerrank. It will make your command strong over how to implement logics 
    and on a particular programming language as well. <br>
-3. Do practice MCQs on all the topics if you go with DSA Track on G4G. <br>
+3. Do practice MCQs on all the topics if you go with DSA Track on G4G. Technical MCQs could be an edge over others. <br>
 
 
 <h3>ALL THE BEST!!!</h3>
