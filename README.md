@@ -1,7 +1,6 @@
 # Placement-Prep
 
-<p> The most important element in cracking a Software Engineering Interview is Data Structures and Algorithms.</p>
-GeeksforGeeks is by far the best place to study Data Structures and Algorithms (acc. to me) <br>
+<p> The most important element in cracking a Software Engineering Interview is Data Structures and Algorithms. GeeksforGeeks is by far the best place to study Data Structures and Algorithms (acc. to me). </p>
  
 Checkout https://practice.geeksforgeeks.org/courses/?query=DSA for the courses they offer.<br>
 Their tutorials and practice tracks are more than sufficient to prepare Data Structures and Algorithms.<br>
@@ -24,7 +23,7 @@ Their tutorials and practice tracks are more than sufficient to prepare Data Str
     
     i. <b>Problem Solving Questions: </b> https://www.hackerrank.com/domains/algorithms <br>
 	ii.a. <b> Data Structures and Algorithms: </b> https://practice.geeksforgeeks.org/courses/dsa-self-paced?vb=154 <br>
-      <h4> OR </h4> <br>
+      <h4> OR </h4> 
 	ii.b. <b> Data Structures and Algorithms: </b> https://www.interviewbit.com/courses/programming/ <br>
 	
 
@@ -43,11 +42,11 @@ Their tutorials and practice tracks are more than sufficient to prepare Data Str
 
 <h2>Last Minute Material</h2>
 
-	1. Maintain notes from all above mentioned tutorials and that could be your best last minute materials.
-	2. <b> For Operating Systems</b> https://www.geeksforgeeks.org/last-minute-notes-operating-systems/<br>
-	3. <b> For Database Management Systems</b> https://www.geeksforgeeks.org/last-minute-notes-dbms/ <br>
-	4. <b> For Networks and Communication </b> https://www.geeksforgeeks.org/last-minute-notes-computer-network/ <br>
-	5. For SQL Queries </b> https://artoftesting.com/interviewSection/sql-queries-for-interview.html </br>
+1. Maintain notes from all above mentioned tutorials and that could be your best last minute materials.
+2. <b> For Operating Systems</b> https://www.geeksforgeeks.org/last-minute-notes-operating-systems/<br>
+3. <b> For Database Management Systems</b> https://www.geeksforgeeks.org/last-minute-notes-dbms/ <br>
+4. <b> For Networks and Communication </b> https://www.geeksforgeeks.org/last-minute-notes-computer-network/ <br>
+5. For SQL Queries </b> https://artoftesting.com/interviewSection/sql-queries-for-interview.html </br>
 
 <h2>Tips</h2>
 
