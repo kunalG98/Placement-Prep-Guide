@@ -4,10 +4,10 @@ The most important element in cracking a Software Engineering Interview is Data 
  
 Checkout https://practice.geeksforgeeks.org/courses/?query=DSA for the courses they offer. Their tutorials and practice tracks are more than sufficient to prepare Data Structures and Algorithms. Sandeep Jain (CEO and founder of GeeksforGeeks) is teaching in DSA tutorials. Mr. Shashi Bhushan (Ex. SDE at Adobe and Paytm) is available in clearing all your doubts on discussion forum and their Disqus Portal. <br>
 
-<p> Some of the benefits of practicing on above portal is that:
-	1. One could end up in top 50 in your University Ranks and this stats are CV stuff.
-	2. You can come across topics that are not published on G4G and publish yourself.
-	3. If published, can end up with a stipend based internship opportunity at G4G.
+<p> Some of the benefits of practicing on above portal is that: <br>
+	1. One could end up in top 50 in your University Ranks and this stats are CV stuff. <br>
+	2. You can come across topics that are not published on G4G and publish yourself. <br>
+	3. If published, can end up with a stipend based internship opportunity at G4G. <br>
 	
 <h5> Following are the detailed topics with links to prepare for Placements. </h5>
 
