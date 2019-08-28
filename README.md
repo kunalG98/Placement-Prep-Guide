@@ -29,7 +29,7 @@ Checkout https://practice.geeksforgeeks.org/courses/?query=DSA for the courses t
     
      i. <b>Problem Solving Questions: </b> https://www.hackerrank.com/domains/algorithms <br>
     ii.a. <b> Data Structures and Algorithms:(Paid) </b> https://practice.geeksforgeeks.org/courses/dsa-self-paced?vb=154 
-     <h6> OR </h6> 
+     	  OR 
     ii.b. <b> Data Structures and Algorithms:(Unpaid) </b> https://www.interviewbit.com/courses/programming/ <br>
      iii.  <b> Must Do Interview Questions for Mirosoft, Amazon etc. </b> https://practice.geeksforgeeks.org/batch/must-do-1/ <br>
      
