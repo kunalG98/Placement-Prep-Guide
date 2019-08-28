@@ -1,11 +1,11 @@
 # Placement-Prep-Guide
 Preparation Guide for Campus Placement and Interviews
 
-# Data Structures and Algorithms 
+<h1> Data Structures and Algorithms <h1>
 The main element in cracking a Software Engineering interview is Data Structures and Algorithms. GeeksforGeeks is by far the best resource
 for it. There are many courses that is being offered now by Geeksforgeeks. Have a look.
 
-https://practice.geeksforgeeks.org/courses/
+<b>Courses on GeeksforGeeks</b> https://practice.geeksforgeeks.org/courses/ <br>
 
 
 To learn and practice Data Structures and Algorithms, I would suggest: 
